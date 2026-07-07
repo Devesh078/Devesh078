@@ -191,7 +191,7 @@ End-to-end development of a full-stack property booking platform, from database 
 
 **Apna College**
 
-![Delta MERN](https://img.shields.io/badge/Delta%20Full%20Stack-MERN%20Certificate-6D28D9?style=flat-square&logo=mongodb&logoColor=white)
+![Delta MERN](file:///C:/Users/deves/Downloads/certificate-sigma-80-68d3fa0826af06db09016814%20(1).pdf)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Certified-7C3AED?style=flat-square&logo=leetcode&logoColor=white)
 
 **Forage**
@@ -204,7 +204,7 @@ End-to-end development of a full-stack property booking platform, from database 
 
 > Add your remaining handles below to activate these badges.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-deveshganji-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deveshganji/)]
+[![LeetCode](https://img.shields.io/badge/LeetCode-deveshganji-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deveshganji/)
 
 ---
 
