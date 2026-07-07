@@ -191,12 +191,12 @@ End-to-end development of a full-stack property booking platform, from database 
 
 **Apna College**
 
-![Delta MERN]()
+![Delta MERN](https://img.shields.io/badge/Delta%20Full%20Stack-MERN%20Certificate-6D28D9?style=flat-square&logo=mongodb&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Certified-7C3AED?style=flat-square&logo=leetcode&logoColor=white)
 
 **Forage**
 
-![Deloitte]([https://img.shields.io/badge/Deloitte-Technology%20Job%20Simulation-8B5CF6?style=flat-square&logo=deloitte&logoColor=white](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_68f9d1dd8db112cab1b29b8a_1764507728482_completion_certificate.pdf))
+![Deloitte](https://img.shields.io/badge/Deloitte-Technology%20Job%20Simulation-8B5CF6?style=flat-square&logo=deloitte&logoColor=white)
 
 ---
 
