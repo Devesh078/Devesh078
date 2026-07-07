@@ -204,7 +204,7 @@ End-to-end development of a full-stack property booking platform, from database 
 
 > Add your handles below to activate these badges.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-handle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/your-handle](https://leetcode.com/u/deveshganji/))
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--handle-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/your-handle)
 [![HackerRank](https://img.shields.io/badge/HackerRank-your--handle-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-handle)
 [![CodeChef](https://img.shields.io/badge/CodeChef-your--handle-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-handle)
